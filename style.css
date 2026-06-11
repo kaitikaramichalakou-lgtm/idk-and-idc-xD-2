@@ -1,0 +1,85 @@
+h1 {
+    color: indigo
+}
+body {
+    font-family: sans-serif;
+}
+header {
+    margin-bottom:15px;
+
+}
+.Learnmore {
+    border: solid black;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+.Prod {
+    border: solid black;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+.Htb {
+    border: solid black;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+.Wls  {
+    border: solid black;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+.Au {
+    border: solid black;
+    border-radius: 7px;
+    padding: 3px;
+    margin: 5px;
+    text-decoration: none;
+    color: black;
+}
+header b {
+    color: navy;
+}
+header img {
+    border: solid navy;
+    border-radius: 770000000000px
+}
+.pp {
+    border: solid indigo;
+    border-radius: 15px;
+    padding: 5px;
+    margin:5px;
+    background-color: aliceblue;
+}
+.p {
+    border: solid indigo;
+    border-radius: 15px;
+    padding: 5px;
+    margin:5px;
+    background-color: aliceblue;
+}
+.f {
+    border: solid indigo;
+    border-radius: 15px;
+    padding: 5px;
+    margin:5px;
+    background-color: aliceblue;
+}
+.fb {
+    border: solid indigo;
+    border-radius: 15px;
+    padding: 5px;
+    margin:5px;
+    background-color: aliceblue;
+}
